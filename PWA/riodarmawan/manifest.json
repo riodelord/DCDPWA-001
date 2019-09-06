@@ -1,0 +1,16 @@
+{
+    "name": "Rio Darmawan",
+    "short_name": "Rio",
+    "description": "My Frist PWA",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#6a7372",
+    "theme_color": "#6a7372",
+    "icons": [
+        {
+            "src": "gdg.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
